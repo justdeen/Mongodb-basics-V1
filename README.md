@@ -24,5 +24,5 @@ A Node.js project demonstrating the use of Mongoose to interact with a MongoDB d
 - `mongodb`: MongoDB driver for Node.js
 
 ## 📄 Acknowledgments
-- Mongoose documentation and community resources
+- Mongoose documentation
 - MongoDB documentation and community resources
